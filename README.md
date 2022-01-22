@@ -1,4 +1,4 @@
-<div align="center"><img src="./GithubHead.gif" style="height: 200px;"></div>
+<div align="center"><img src="./53ff6912-3670-4732-b264-5234cb91721f.jpg" style="height: 200px;"></div>
 <h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Madhan Kumar M!</h1>
 <br>
 <p align="center" style="margin-top:10px">
