@@ -4,7 +4,7 @@
 <p align="center" style="margin-top:10px">
 <b>
 Welcome to my Github profile!</b> <br>
-Scroll down below to find what I do, what I am doing.<br>   
+Want to know more About Me! Scroll down below to find what I do, what I am doing.<br>   
 <i>Want to collaborate, reach me below.</i>
 </p>
 <div align="center">
