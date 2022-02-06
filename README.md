@@ -80,9 +80,9 @@ Want to know more About Me! Scroll down below to find what I do, what I am doing
 
 
 <br><br>
+![Visitor Count](https://profile-counter.glitch.me/Madhan13K/count.svg)
 
 <h3>Github Stats 📈</h3>
-<h3>![Profile views](https://komarev.com/ghpvc/?username=Madhan13K)<\h4>
 
 
 
