@@ -78,10 +78,12 @@ Want to know more About Me! Scroll down below to find what I do, what I am doing
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&style=plastic)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=blue&style=plastic)   
 
+<h3>Profile Views</h3>
+
+![Visitor Count](https://profile-counter.glitch.me/Madhan13K/count.svg)
 
 <br><br>
-<h3>Profile Views</h3>
-![Visitor Count](https://profile-counter.glitch.me/Madhan13K/count.svg)
+
 
 <h3>Github Stats 📈</h3>
 
