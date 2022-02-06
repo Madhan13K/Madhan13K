@@ -82,6 +82,7 @@ Want to know more About Me! Scroll down below to find what I do, what I am doing
 <br><br>
 
 <h3>Github Stats 📈</h3>
+<h3>![](https://komarev.com/ghpvc/?username=Madhan13K)<\h4>
 
 
 
