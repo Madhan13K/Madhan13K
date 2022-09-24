@@ -27,7 +27,7 @@ Want to know more About Me! Scroll down below to find what I do, what I am doing
 <br>
 <br>
 <h3 align="center">A small introduction ✍</h3>
-<p align="center">Hey! I am currently in my <b>4th year</b> of Bachelors in Electrical and Electronics Engineering. I am a <b>MERN full stack web developer</b>, a <b>machine learning enthusiast</b>, a <b>Robotics geek</b>. I have worked on Robotics,Robotic operating System(ROS) for almost 2 years, currently Working on Web development and Machine Learning.</p>
+<p align="center">Hey! I have done my Bachelors in <b>Electrical and Electronics Engineering</b>. I am a <b>MERN full stack web developer</b>, a <b>machine learning enthusiast</b>, a <b>Robotics geek</b>. I have worked on Robotics,Robotic operating System(ROS) for almost 2 years, currently Working on Web development and Machine Learning.</p>
 <br>
 <br>
 <h3 align="left">About me 🤔</h3>
@@ -37,7 +37,7 @@ Want to know more About Me! Scroll down below to find what I do, what I am doing
 <!--   &bullet;&nbsp;I create content on JavaScript.<i> Want to learn the basics, <a href="https://www.instagram.com/gagancodes_/"><b>follow me.</b></a></i><br> -->
 </div>
 <h4><b>Personal portfolio still in development</h4>
-<!-- <a href="https://gaganpreetkaurkalsi.netlify.app/">here</a>.</b> --> -->
+<!-- <a href="https:">here</a>.</b> --> -->
 <br>
 <br>  
 <h3>Tech stack I work with 👇</h3>
